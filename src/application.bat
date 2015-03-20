@@ -1,5 +1,6 @@
-### application.bat - 2015 - Campino ###
-echo "Copyright company - 2015"
-"Build : 10:00"
-echo "version 1.1"
+### application.bat - 201x - votre nom ###
+version = "2"
+build_hour = "11H00"
 
+echo "Build ${build_hour}"
+echo "version ${version}"
